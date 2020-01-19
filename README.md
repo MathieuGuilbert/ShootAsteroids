@@ -20,7 +20,7 @@ Difficultés rencontrées:
 	Enfin, le seul gros défaut qui persiste jusqu'à maintenant viens du background; Je n'arrive pas a faire une transition fluide entre mes sprites de backgrounds.
 
 Appareils testés:
--Samsung Galaxy S8
+-Samsung Galaxy S6
 
 
 Sources:
